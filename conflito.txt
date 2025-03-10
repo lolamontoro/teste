@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 olá, como vai você tudo bem?
+=======
+olá tudo bem? mundo adicionado
+>>>>>>> branch-b
